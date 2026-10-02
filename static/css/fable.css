@@ -1,0 +1,19 @@
+/* CSS Complementario - Fable 5 AzulERP */
+:root {
+    --erp-transition-speed: 0.25s;
+}
+
+.erp-card-hover {
+    transition: transform var(--erp-transition-speed) ease, box-shadow var(--erp-transition-speed) ease;
+}
+
+.erp-card-hover:hover {
+    transform: translateY(-3px);
+}
+
+.badge-status {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25em 0.6em;
+    border-radius: 12px;
+}

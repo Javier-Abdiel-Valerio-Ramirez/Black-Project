@@ -7,9 +7,9 @@
 | **Número de espiral** | 1 |
 | **Nombre del ciclo** | Infraestructura y Configuración Base |
 | **Semanas** | W01 – W03 |
-| **Fecha de inicio** | ___/___/_____ |
-| **Fecha de cierre** | ___/___/_____ |
-| **Responsable** | [Nombre del estudiante] |
+| **Fecha de inicio** | 13/10/2026 |
+| **Fecha de cierre** | 13/10/2026|
+| **Responsable** | Javier Abdiel Valerio Ramirez |
 | **Asesor** | MC. Román Fernando López González |
 
 ---
@@ -49,11 +49,10 @@ posterior tenga una URL pública verificable desde el inicio del proyecto.
 - [ ] Captura de pantalla: `evidencias/espiral_01/manage_check.png`
 - [ ] Resultado de tests: `Ran 33 tests in X.XXXs — OK`
 - [ ] Commit de cierre:
-3c984fb (HEAD -> main, origin/main) Sprint 0 W02 CIERRE: MVT completo + Fable5 + WhiteNoise + 23 tests OK
+`3c984fb (HEAD -> main, origin/main) Sprint 0 W02 CIERRE: MVT completo + Fable5 + WhiteNoise + 23 tests OK
 0f3fd03 Sprint 0 W02: render() + templates Fable5 AzulERP x6 vistas
 9027803 Sprint 0 W01: suite de tests de entorno (11 tests OK)
-eed013a Sprint 0 W01: entorno portable + proyecto Django base + 5 apps
-
+eed013a Sprint 0 W01: entorno portable + proyecto Django base + 5 apps`
 
 ---
 

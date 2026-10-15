@@ -19,7 +19,7 @@ Diseñar, implementar y validar el esquema de base de datos completo del ERP en 
 ## 2. Tareas realizadas (W04)
 - [x] Diseño diagrama ER (8 entidades)
 - [x] Normalización 3FN y decisiones de diseño
-- [ ] Aprobación del asesor
+- [Aprobado] Aprobación del asesor
 
 ---
 
